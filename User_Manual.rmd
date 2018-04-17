@@ -299,8 +299,6 @@ Recall it:
 
 If you don't want to rerun your code but only want to show the result again, please refer to the usage of `cache` chunk option (not covered in this manual).
 
-<div STYLE="page-break-after: always;"></div>
-
 ### 3c. In-line R Code
 
 To embed in-line R code, just surround that code with a pair of single backticks and preface the code with a lower case `r`. For example,
@@ -316,6 +314,8 @@ The sum of 2017.12 and 1991.12 is 4008.24.
 ```
 
 
+
+<div STYLE="page-break-after: always;"></div>
 
 ## 4. Interpretative Text 
 
@@ -372,8 +372,6 @@ Sometimes we need to upload the local images to cloud drive so we can browse the
 
 Then you can access your images in anywhere.
 
-<div STYLE="page-break-after: always;"></div>
-
 ### 4b. Lists
 
 To make bulleted lists, add an asterisk/a hyphen and a space at the front of a new line:
@@ -421,8 +419,6 @@ Try this and see what will happen:
 1. item 2
 12. item 3
 ```
-
-<div STYLE="page-break-after: always;"></div>
 
 ### 4c. Math Equations
 
